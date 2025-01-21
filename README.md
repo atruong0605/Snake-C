@@ -1,1 +1,1 @@
-# Snake-C
+# 61C Project 1: snek
