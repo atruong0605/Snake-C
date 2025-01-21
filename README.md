@@ -1,1 +1,3 @@
-# 61C Project 1: snek
+# Snake
+
+Classic game of Snake, programmed in C.
